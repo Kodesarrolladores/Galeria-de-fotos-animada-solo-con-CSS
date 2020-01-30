@@ -1,9 +1,11 @@
 <p align="center"><img src="https://github.com/Kodesarrolladores/Base/blob/master/FB%20profile/facebook-profile-transparente.png" alt="Mark Text" width="100" height="100"></p>
 
-<h1 align="center">Animación de carga con plano giratorio con CSS</h1>
+<h1 align="center">Galería de fotos animada solo con CSS</h1>
 
 <p align="center">
-  La animación de rotación plano de carga es realmente necesario, parte de sitios web<br> y tiene un gran impacto en la experiencia del usuario de una aplicación web.<br>
+Sabemos que contar con una galería de imágenes en nuestros sitios web es muy importante pues nos ayuda<br>
+a mostrar por ejemplo nuestros productos, nuestro equipo de trabajo o negocio, nuestros trabajos<br>
+realizados o lo que deseemos mostrar.<br>
 </p>
 
 ## 
